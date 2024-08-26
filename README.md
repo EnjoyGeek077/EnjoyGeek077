@@ -105,8 +105,6 @@ I'm passionate about all things IT, particularly everything related to the world
   </a>
 </p>
 
-
-
 ---
 
 ## 💾 Related
