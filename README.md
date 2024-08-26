@@ -111,8 +111,8 @@ I'm passionate about all things IT, particularly everything related to the world
 Here some personal and university projects (with contributors):
 
 *Università degli Studi di Salerno*
-- [Egyptian Hieroglyphics Translator*](https://github.com/Endless077/Egyptian_Hieroglyphics_Translator)
-- [ESP32 IDS*](https://github.com/Endless077/ESP32_IDS)
+- [Egyptian Hieroglyphics Models Analysis](https://github.com/Endless077/Egyptian_Hieroglyphics_Models_Analysis)
+- [Espressif IDS*](https://github.com/Endless077/Espressif_IDS)
 - [ML Suite Test](https://github.com/Endless077/ML_Test_Suite)
 - [WTFunko](https://github.com/Endless077/WTFunko)
 
