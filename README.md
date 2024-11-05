@@ -72,28 +72,40 @@ I'm Antonio from Naples, Italy. I am a graduate student in the computer science 
 I'm passionate about all things IT, particularly everything related to the world of IT security.
 
 ## 🔬 Rapidfire 
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- 🧠 Learning some skills about general IT and ethical hacking, but something is brewing.  
-
-- 🎓 Three-year Degree from the [University of Naples](https://www.unina.it) (Computer Science).
-
-- 💻 Currently studying for a Master's degree at the [University of Salerno](https://www.unisa.it) (IT Security).
+  - 🧠 Learning some skills about general IT and ethical hacking, but something is brewing.  
   
-- 🔭 Working on personal projects and some university projects about IT Security. Contact me for more details. 
+  - 🎓 Three-year Degree from the [University of Naples](https://www.unina.it) (Computer Science).
   
-- 💬 Ask me about...anything!  
- 
-- 💲 I invest in crypto and shares in my spare time, using [Coinbase](https://www.coinbase.com/), [Binance](https://www.binance.com/) or [Plus500](https://www.plus500.com/).
+  - 💻 Currently studying for a Master's degree at the [University of Salerno](https://www.unisa.it) (IT Security).
+    
+  - 🔭 Working on personal projects and some university projects about IT Security. Contact me for more details. 
+    
+  - 💬 Ask me about...anything!  
+   
+  - 💲 I invest in crypto and shares in my spare time, using [Coinbase](https://www.coinbase.com/), [Binance](https://www.binance.com/) or [Plus500](https://www.plus500.com/).
+  
+  - ⚡ Some fun facts:
+    - 🎵 I am passionate about music, with experience in DJSet but also guitar, piano and sax.
+    - 🌲 I have a background in outdoor survival skills and various medical knowledge.
+    - ♟️ I am an avid chess enthusiast, enjoying the strategic depth and intellectual challenge it provides.
+    - 🛡️ I explore penetration testing tools and platforms, including [ESP32Marauder 🛰️](https://github.com/justcallmekoko/ESP32Marauder), [Flipper Zero 🐬](https://github.com/flipperdevices/flipperzero-firmware), and [NetHunter 🌐](https://www.kali.org/docs/nethunter/).
 
-- ⚡ Some fun fact: I surf the internet looking for penetration testing programs (i.e [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder), [Flipper Zero](https://github.com/flipperdevices/flipperzero-firmware), [NetHunter](https://www.kali.org/docs/nethunter/)), but I am also an outdoor survival expert with various knowledge in the medical field.
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github.com/Endless077/Endless077/blob/master/Folder/greetings.gif" align="center" style="width: 100%" />
-<img src="https://github.com/Endless077/Endless077/blob/master/Folder/lofi.gif" align="center" style="width: 100%" />
-</div>  
-</td></tr></table>   
+  </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <hr style="width: 80%; border: 1px solid #ccc; margin: 20px 0;" />
+        <img src="https://github.com/Endless077/Endless077/blob/master/Folder/greetings.gif" style="width: 100%; max-width: 100%; display: block; margin: 0 auto;" />
+        <hr style="width: 80%; border: 1px solid #ccc; margin: 20px 0;" />
+        <img src="https://github.com/Endless077/Endless077/blob/master/Folder/lofi.gif" style="width: 100%; max-width: 100%; display: block; margin: 0 auto;" />
+        <hr style="width: 80%; border: 1px solid #ccc; margin: 20px 0;" />
+      </div>
+    </td>
+  </tr>
+</table>   
 
 ## Spotify 🎵
 
