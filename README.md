@@ -111,8 +111,8 @@ I'm passionate about all things IT, particularly everything related to the world
 Here some personal and university projects (with contributors):
 
 *Università degli Studi di Salerno*
-- [Espressif Secure Communication*](https://github.com/Endless077/)
 - [Egyptian Hieroglyphics Models Analysis](https://github.com/Endless077/Egyptian_Hieroglyphics_Models_Analysis)
+- [IoT Secure Networking*](https://github.com/Endless077/)
 - [ML Suite Test](https://github.com/Endless077/ML_Test_Suite)
 - [WTFunko](https://github.com/Endless077/WTFunko)
 
