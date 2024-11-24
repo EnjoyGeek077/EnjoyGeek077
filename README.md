@@ -124,14 +124,16 @@ Here some personal and university projects (with contributors):
 
 *Università degli Studi di Salerno*
 - [Egyptian Hieroglyphics Models Analysis](https://github.com/Endless077/Egyptian_Hieroglyphics_Models_Analysis)
+- [Robot Programming with ROS*](https://github.com/Endless077/)
 - [IoT Secure Networking*](https://github.com/Endless077/)
+- [HP SBWT Compression*](https://github.com/Endless077/)
 - [ML Suite Test](https://github.com/Endless077/ML_Test_Suite)
 - [WTFunko](https://github.com/Endless077/WTFunko)
 
 *Università degli Studi di Napoli - Federico II*
 - [LapMiner](https://github.com/Endless077/LapMiner)
-- [Potholes](https://github.com/Endless077/Potholes)
 - [NaTour21](https://github.com/Endless077/NaTour21)
+- [Potholes](https://github.com/Endless077/Potholes)
 - [ADS Libraries](https://github.com/Endless077/Algorithms-and-Data-Structures)
 - [CineMates20](https://github.com/Endless077/CineMates20)
 - [MeBell](https://github.com/Endless077/MeBell)
