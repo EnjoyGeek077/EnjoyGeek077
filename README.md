@@ -123,9 +123,9 @@ I'm passionate about all things IT, particularly everything related to the world
 Here some personal and university projects (with contributors):
 
 *Università degli Studi di Salerno*
-- [IoT Secure Networking*](https://github.com/Endless077/IoT-Security-Networking)
-- [HP SBWT Compression*](https://github.com/Endless077/HP_SBWT_Compression)
-- [Simple CarROS*](https://github.com/Endless077/Simple_CarROS)
+- [IoT Secure Networking](https://github.com/Endless077/IoT_Security_Networking)
+- [HP SBWT Compression](https://github.com/Endless077/HP_SBWT_Compression)
+- [Simple CarROS](https://github.com/Endless077/Simple_CarROS)
 - [Egyptian Hieroglyphics Models Analysis](https://github.com/Endless077/Egyptian_Hieroglyphics_Models_Analysis)
 - [ML Suite Test](https://github.com/Endless077/ML_Test_Suite)
 - [WTFunko](https://github.com/Endless077/WTFunko)
